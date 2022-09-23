@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e47bde9-0f1f-476f-8859-38890ccaf240" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkTalkLab1.iml" afterDir="false" />
+    <list default="true" id="1e47bde9-0f1f-476f-8859-38890ccaf240" name="Changes" comment="Talk Talk Lab APCS">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +11,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FAbTYWcYC8eN7febGEdwgcU3nA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -56,6 +54,8 @@
       <option name="presentableId" value="Default" />
       <updated>1663937843813</updated>
       <workItem from="1663937845700" duration="35000" />
+      <workItem from="1663938673155" duration="2000" />
+      <workItem from="1663938682723" duration="153000" />
     </task>
     <servers />
   </component>
