@@ -35,7 +35,7 @@ public class HolyGrail {
         System.out.println("Your name is: " + name);
         System.out.println("Your quest is: " + quest);
         System.out.println("Your favorite color is: " + color);
-        System.out.println(name + "'s quest is to " + quest + " and their favorite color is " + color);
+        //System.out.println(name + "'s quest is to " + quest + " and their favorite color is " + color);
         System.out.println("* end of program *");
     }
 }
